@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+   <listeners>
+       <listener class-name="core.reporting.ExtentTestNGITestListener"></listener>
+   </listeners>
+    <test name="UI-Tests" >
+        <classes>
+           <class name="com.ui.tests.ServiceCenterTest"></class>
+        </classes>
+    </test>
+</suite>

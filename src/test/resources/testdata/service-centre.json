@@ -1,0 +1,13 @@
+{
+  "testData":[
+    {
+      "suburb": "Sydney 2000",
+      "servicecentre": "Marrickville Service Centre"
+    },
+    {
+      "suburb": "Sydney Domestic Airport 2020",
+      "servicecentre": "Rockdale Service Centre"
+    }
+
+  ]
+}
