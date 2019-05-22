@@ -25,14 +25,10 @@ defaults to Chrome only.
 ```
 Html Reports at the end of execution is available in /target folder 
 with test name, test status, test data and screenshots for failures
+```
 
 Sample Report Screenshot
-
-<p align="center">
-  <img src="./img/example-report/sample-report.png" alt="Sample Report Example" width="650">
-</p>
-
-```
+![alt text](./img/example-report/sample-report.png?raw=true "Sample Report")
 
 ##CI/CD
 ```
