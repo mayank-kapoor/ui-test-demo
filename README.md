@@ -28,7 +28,9 @@ with test name, test status, test data and screenshots for failures
 ```
 
 Sample Report Screenshot
+
 ![alt text](./img/example-report/sample-report.png?raw=true "Sample Report")
+
 
 ##CI/CD
 ```
