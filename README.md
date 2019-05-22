@@ -44,5 +44,6 @@ send notifications on Slack, PagerDuty.
 
 ## Contributing
 
-```Pull requests and feedbacks are welcome.Please make sure to update tests as appropriate.
+```
+Pull requests and feedbacks are welcome.Please make sure to update tests as appropriate.
 ```
